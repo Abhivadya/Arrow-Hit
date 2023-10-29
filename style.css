@@ -1,0 +1,22 @@
+h1 {
+    font-family: cursive;
+    font-size: 3rem;
+    color: #db8d07;
+    margin-left: 40vh;
+}
+
+#canvas {
+    border-style: solid;
+    border-radius: 5px;
+    display: block;
+}
+
+#button {
+    width: 100px;
+    height: 40px;
+    margin-top: 10px;
+    margin-left: 50vh;
+    font-size: 2rem;
+    color: red;
+    border-radius: 5px;
+}
